@@ -1,2 +1,2 @@
-# bit_transition_verifier
+# bit-transition-verifier
 Utility checking bit transitions
